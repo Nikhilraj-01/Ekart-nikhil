@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: ekart-1
+        app: ekart
     spec:
       containers:
         - name: ekart
